@@ -1,0 +1,9 @@
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Definitions.Decorator_DonkeyKong.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong/DecoradorSaltador.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\Decorador.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\IJugador.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\IJugador.generated.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorador.generated.h
+C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\DecoradorSaltador.generated.h

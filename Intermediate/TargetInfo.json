@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Decorator_DonkeyKong",
+			"Path": "C:\\Users\\joelp\\OneDrive\\Documentos\\Unreal Projects\\Decorator_DonkeyKong\\Source\\Decorator_DonkeyKong.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Decorator_DonkeyKongEditor",
+			"Path": "C:\\Users\\joelp\\OneDrive\\Documentos\\Unreal Projects\\Decorator_DonkeyKong\\Source\\Decorator_DonkeyKongEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

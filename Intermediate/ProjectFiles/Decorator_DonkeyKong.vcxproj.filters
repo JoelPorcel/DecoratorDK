@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Decorator_DonkeyKong.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C705FD10-4424-4975-9156-BECFAD123AA7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Decorator_DonkeyKong.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Decorator_DonkeyKongEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{07E62BC6-E26A-4183-8657-B1C819653CD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Decorator_DonkeyKong">
+      <UniqueIdentifier>{050267C6-9ACC-49AB-9C90-1059D4CC8638}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Decorator_DonkeyKong\Decorador.cpp">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Decorator_DonkeyKong\Decorador.h">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Decorator_DonkeyKong\DecoradorCorredor.cpp">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Decorator_DonkeyKong\DecoradorCorredor.h">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Decorator_DonkeyKong\DecoradorSaltador.cpp">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Decorator_DonkeyKong\DecoradorSaltador.h">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Decorator_DonkeyKong\Decorator_DonkeyKong.Build.cs">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Decorator_DonkeyKong\Decorator_DonkeyKong.cpp">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Decorator_DonkeyKong\Decorator_DonkeyKong.h">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.cpp">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.h">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Decorator_DonkeyKong\Decorator_DonkeyKongGameMode.cpp">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Decorator_DonkeyKong\Decorator_DonkeyKongGameMode.h">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Decorator_DonkeyKong\IJugador.cpp">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Decorator_DonkeyKong\IJugador.h">
+      <Filter>Source\Decorator_DonkeyKong</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

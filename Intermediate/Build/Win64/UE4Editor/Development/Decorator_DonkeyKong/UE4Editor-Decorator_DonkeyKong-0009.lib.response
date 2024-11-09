@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Decorator_DonkeyKong-0009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\Decorator_DonkeyKongEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Decorador.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\DecoradorCorredor.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\DecoradorSaltador.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Decorator_DonkeyKong.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Decorator_DonkeyKongGameMode.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\IJugador.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Decorador.gen.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\DecoradorCorredor.gen.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\DecoradorSaltador.gen.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Decorator_DonkeyKong.init.gen.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.gen.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Decorator_DonkeyKongGameMode.gen.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\IJugador.gen.cpp.obj"
+"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Default.rc2.res"
+/OUT:"C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\UE4Editor-Decorator_DonkeyKong-0009.lib"

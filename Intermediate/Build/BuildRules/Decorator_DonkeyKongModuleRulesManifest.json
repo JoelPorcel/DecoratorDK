@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\joelp\\OneDrive\\Documentos\\Unreal Projects\\Decorator_DonkeyKong\\Source\\Decorator_DonkeyKong\\Decorator_DonkeyKong.Build.cs",
+		"C:\\Users\\joelp\\OneDrive\\Documentos\\Unreal Projects\\Decorator_DonkeyKong\\Source\\Decorator_DonkeyKong.Target.cs",
+		"C:\\Users\\joelp\\OneDrive\\Documentos\\Unreal Projects\\Decorator_DonkeyKong\\Source\\Decorator_DonkeyKongEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
