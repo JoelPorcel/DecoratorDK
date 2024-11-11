@@ -1,18 +1,18 @@
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Definitions.Decorator_DonkeyKong.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\DecoradorCorredor.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\Decorador.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\IJugador.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\IJugador.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorador.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\DecoradorCorredor.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Definitions.Decorator_DonkeyKong.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\DecoradorCorredor.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\Decorador.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\IJugador.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\IJugador.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorador.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\DecoradorCorredor.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementComponent.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationAvoidanceTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationAvoidanceTypes.generated.h

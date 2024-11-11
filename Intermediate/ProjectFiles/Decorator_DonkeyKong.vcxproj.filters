@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Decorator_DonkeyKong.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{C705FD10-4424-4975-9156-BECFAD123AA7}</UniqueIdentifier>
+      <UniqueIdentifier>{1426C8E8-2BD4-4C3D-B645-B3BBE9F95F01}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Decorator_DonkeyKong.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\Decorator_DonkeyKongEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{07E62BC6-E26A-4183-8657-B1C819653CD5}</UniqueIdentifier>
+      <UniqueIdentifier>{188EA40D-174D-43CA-AC15-3E487FD686CA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +32,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Decorator_DonkeyKong">
-      <UniqueIdentifier>{050267C6-9ACC-49AB-9C90-1059D4CC8638}</UniqueIdentifier>
+      <UniqueIdentifier>{314FE845-2C50-4721-8928-B4FEE3E5A4F1}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Decorator_DonkeyKong\Decorador.cpp">
       <Filter>Source\Decorator_DonkeyKong</Filter>

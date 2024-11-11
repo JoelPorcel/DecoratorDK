@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DECORATOR_DONKEYKONG_Decorador_generated_h
 
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_SPARSE_DATA
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_RPC_WRAPPERS
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_INCLASS_NO_PURE_DECLS \
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_SPARSE_DATA
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_RPC_WRAPPERS
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesADecorador(); \
 	friend struct Z_Construct_UClass_ADecorador_Statics; \
@@ -26,7 +26,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<ADecorador*>(this); }
 
 
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_INCLASS \
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesADecorador(); \
 	friend struct Z_Construct_UClass_ADecorador_Statics; \
@@ -36,7 +36,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<ADecorador*>(this); }
 
 
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_STANDARD_CONSTRUCTORS \
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ADecorador(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ADecorador) \
@@ -49,7 +49,7 @@ private: \
 public:
 
 
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_ENHANCED_CONSTRUCTORS \
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ADecorador(ADecorador&&); \
@@ -60,28 +60,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ADecorador)
 
 
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_PRIVATE_PROPERTY_OFFSET
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_10_PROLOG
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_GENERATED_BODY_LEGACY \
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_PRIVATE_PROPERTY_OFFSET
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_10_PROLOG
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_PRIVATE_PROPERTY_OFFSET \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_SPARSE_DATA \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_RPC_WRAPPERS \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_INCLASS \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_STANDARD_CONSTRUCTORS \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_PRIVATE_PROPERTY_OFFSET \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_SPARSE_DATA \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_RPC_WRAPPERS \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_INCLASS \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_GENERATED_BODY \
+#define DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_PRIVATE_PROPERTY_OFFSET \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_SPARSE_DATA \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_INCLASS_NO_PURE_DECLS \
-	Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h_13_ENHANCED_CONSTRUCTORS \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_PRIVATE_PROPERTY_OFFSET \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_SPARSE_DATA \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_INCLASS_NO_PURE_DECLS \
+	DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -89,7 +89,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> DECORATOR_DONKEYKONG_API UClass* StaticClass<class ADecorador>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Decorator_DonkeyKong_Source_Decorator_DonkeyKong_Decorador_h
+#define CURRENT_FILE_ID DecoratorDK_Source_Decorator_DonkeyKong_Decorador_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
