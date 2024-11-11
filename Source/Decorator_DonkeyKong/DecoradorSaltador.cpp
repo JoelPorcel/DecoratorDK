@@ -27,26 +27,10 @@ void ADecoradorSaltador::Tick(float DeltaTime)
 
 }
 
-void ADecoradorSaltador::setCorrer(float _correr)
-{
-	//correr = Super::getCorrer() + _correr;
-	//Jugador->setCorrer(correr);
-	Super::setCorrer(Super::getCorrer() + _correr);
-}
-
 void ADecoradorSaltador::setSaltar(float _salto)
 {
 	//saltar = Super::getSaltar() + _salto;
 	//Jugador->setSaltar(saltar);
-	Super::setSaltar(Super::getSaltar() + _salto);
+	Super::setSaltar(_salto);
 }
 
-float ADecoradorSaltador::getCorrer()
-{
-	return Super::getCorrer();
-}
-
-float ADecoradorSaltador::getSaltar()
-{
-	return Super::getSaltar();
-}

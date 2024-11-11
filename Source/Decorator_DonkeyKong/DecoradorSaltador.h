@@ -10,8 +10,8 @@ UCLASS()
 class DECORATOR_DONKEYKONG_API ADecoradorSaltador : public ADecorador
 {
 	GENERATED_BODY()
-	
-public:	
+
+public:
 	// Sets default values for this actor's properties
 	ADecoradorSaltador();
 
@@ -19,13 +19,13 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	void setCorrer(float _correr) override;
+	void setCorrer(float _correr) override {};
 	void setSaltar(float _salto) override;
-	float getCorrer() override;
-	float getSaltar() override;
+	float getCorrer() override {};
+	float getSaltar() override {};
 
 };

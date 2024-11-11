@@ -31,14 +31,12 @@ void ADecoradorCorredor::setCorrer(float _correr)
 {
 	//correr = getCorrer() + _correr;
 	//Jugador->setCorrer(correr);
-	Super::setCorrer(Super::getCorrer() + _correr);
+	Super::setCorrer(getCorrer() + _correr);
 }
 
 void ADecoradorCorredor::setSaltar(float _salto)
 {
-	//saltar = getSaltar() + _salto;
-	//Jugador->setSaltar(correr);
-	Super::setSaltar(Super::getSaltar() + _salto);
+	Super::setSaltar(getSaltar() + _salto);
 }
 
 float ADecoradorCorredor::getCorrer()
@@ -50,4 +48,5 @@ float ADecoradorCorredor::getSaltar()
 {
 	return Super::getSaltar();
 }
+
 

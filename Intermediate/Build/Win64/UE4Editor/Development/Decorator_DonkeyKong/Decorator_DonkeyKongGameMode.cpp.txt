@@ -1,20 +1,20 @@
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Definitions.Decorator_DonkeyKong.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\Decorator_DonkeyKongGameMode.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Development\Decorator_DonkeyKong\Definitions.Decorator_DonkeyKong.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\Decorator_DonkeyKongGameMode.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\IJugador.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\IJugador.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorator_DonkeyKongGameMode.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\IJugador.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\IJugador.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorator_DonkeyKongGameMode.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorator_DonkeyKongCharacter.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
@@ -24,9 +24,9 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\DecoradorCorredor.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\Decorador.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorador.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\DecoradorCorredor.generated.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Source\Decorator_DonkeyKong\DecoradorSaltador.h
-C:\Users\joelp\OneDrive\Documentos\Unreal Projects\Decorator_DonkeyKong\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\DecoradorSaltador.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\DecoradorCorredor.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\Decorador.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\Decorador.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\DecoradorCorredor.generated.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Source\Decorator_DonkeyKong\DecoradorSaltador.h
+D:\Auxiliatura\SIS457\02_24\Alumnos\DecoratorDK\Intermediate\Build\Win64\UE4Editor\Inc\Decorator_DonkeyKong\DecoradorSaltador.generated.h
